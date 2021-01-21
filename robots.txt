@@ -1,1 +1,1 @@
-Sitemap: https://jeremy886.github.io/maths2021/sitemap.xml
+Sitemap: https://blog.maths.tools/sitemap.xml
