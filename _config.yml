@@ -14,7 +14,8 @@ github_repo: "maths2021"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://jeremy886.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://jeremy886.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.maths.tools"
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,13 +35,14 @@ url: "https://jeremy886.github.io" # the base hostname & protocol for your site,
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/maths2021" # the subpath of your site, e.g. "/blog".
+# baseurl: "/maths2021" # the subpath of your site, e.g. "/blog".
+baseurl: ""
 
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+#    twitter: fastdotai
+#    github: fastai
 
 # Set this to true to get LaTeX math equation support
 use_math: 
